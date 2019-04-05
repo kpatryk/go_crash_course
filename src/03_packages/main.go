@@ -3,8 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
-
-	"github.com/bradtraversy/go_crash_course/03_packages/strutil"
+	"github.com/kpatryk/go_crash_course/src/03_packages/strutil"
 )
 
 func main() {
